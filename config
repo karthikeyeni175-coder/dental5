@@ -1,0 +1,16 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/skillstar66-star/seedsthrapy.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[user]
+	name = Dinesh
+	email = dinesh@example.com
+[branch "master"]
+	remote = origin
+	merge = refs/heads/dental-clinic-update
